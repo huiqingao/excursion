@@ -31,7 +31,27 @@ a {
 /* Header */
 
 
-/* Video */
+/* Main */
+main {
+  display: flex;
+  flex-direction: column;
+}
 
+/* Video */
+video {
+  margin: 20px auto;
+}
 
 /* Tagline */
+
+
+/* Next Step */
+.next_step {
+  margin: 20px auto;
+}
+
+/* Footer */
+footer {
+  float: right;
+  margin-right: 20px;
+}
